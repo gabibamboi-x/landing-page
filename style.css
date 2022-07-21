@@ -67,8 +67,6 @@ h1 {
 }
 
 #main-photo {
-    flex-shrink: 0;
-
     width: 520px;
 }
 
